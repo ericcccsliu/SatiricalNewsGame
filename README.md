@@ -6,4 +6,5 @@ Can you differentiate between satirical news headlines (sourced from The Onion) 
 - cd into the correct path: `cd SatiricalNewsGame`
 - run `game.py`: `python3 game.py`
 
-
+## Acknowledgements
+Data for this game was sourced from the [News Headlines Dataset for Sarcasm Detection](https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection)
